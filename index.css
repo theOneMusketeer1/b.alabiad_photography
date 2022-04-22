@@ -1,0 +1,32 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.banner{
+    background-color: blueviolet;
+    color: rgb(245, 245, 245);
+    border: 5px dotted rgb(255, 72, 212);
+    padding: 10px 10px;
+    margin: 60px 550px 10px 10px;
+}
+
+.banner img{
+    width: 750px;
+    height: 580px;
+    border: 7px solid aquamarine;
+    text-align: right;
+}
+
+.banner .bold{
+    font-weight: 900;
+    color: yellow;
+}
+
+.about{
+    margin-left: 400px;
+}
+
+#AboutMeTitle{
+    font-weight: 900;
+}
